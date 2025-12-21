@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>技术 on Liuqi&#39;s blog</title>
-    <link>https://liuqi.github.io/tags/%E6%8A%80%E6%9C%AF/</link>
+    <link>https://liuqidev.github.io/tags/%E6%8A%80%E6%9C%AF/</link>
     <description>Recent content in 技术 on Liuqi&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>2022-2025</copyright>
-    <lastBuildDate>Sat, 13 May 2023 15:27:31 +0000</lastBuildDate><atom:link href="https://liuqi.github.io/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 May 2023 15:27:31 +0000</lastBuildDate><atom:link href="https://liuqidev.github.io/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Obsidian使用笔记</title>
-      <link>https://liuqi.github.io/post/obsidian/</link>
+      <link>https://liuqidev.github.io/post/obsidian/</link>
       <pubDate>Sat, 13 May 2023 15:27:31 +0000</pubDate>
       
-      <guid>https://liuqi.github.io/post/obsidian/</guid>
+      <guid>https://liuqidev.github.io/post/obsidian/</guid>
       <description>Obsidian中文文档
 Record 使用快捷键 Ctrl/Cmd-alt-左方向键回到之前的页面。 可以构建一个非常复杂的知识管理系统。 发布并可设密码。 如果按住 Ctrl/Cmd 再按下 Enter，那么将会变为在新的面板打开该笔记。 模板插件能让你在当前笔记中快速插入预设的文本段。 复制、在 Obsidian 中粘贴图片 前后有空行包围的东西就是块。
 同步收费.

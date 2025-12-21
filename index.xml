@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Liuqi&#39;s blog</title>
-    <link>https://liuqi.github.io/</link>
+    <link>https://liuqidev.github.io/</link>
     <description>Recent content on Liuqi&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>2022-2025</copyright>
     <lastBuildDate>Tue, 25 Nov 2025 22:59:32 +0800</lastBuildDate>
     
-        <atom:link href="https://liuqi.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://liuqidev.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     
         <item>
         <title>天涯房价神贴导读</title>
-        <link>https://liuqi.github.io/post/tianya-housing-price/</link>
+        <link>https://liuqidev.github.io/post/tianya-housing-price/</link>
         <pubDate>Tue, 25 Nov 2025 22:59:32 +0800</pubDate>
         
-        <guid>https://liuqi.github.io/post/tianya-housing-price/</guid>
-        <description>Liuqi&#39;s blog https://liuqi.github.io/post/tianya-housing-price/ -&lt;p&gt;这是一个基于 GitHub 仓库 &lt;code&gt;https://github.com/shengcaishizhan/kkndme_tianya&lt;/code&gt; 的内容深度总结与分析。&lt;/p&gt;
+        <guid>https://liuqidev.github.io/post/tianya-housing-price/</guid>
+        <description>Liuqi&#39;s blog https://liuqidev.github.io/post/tianya-housing-price/ -&lt;p&gt;这是一个基于 GitHub 仓库 &lt;code&gt;https://github.com/shengcaishizhan/kkndme_tianya&lt;/code&gt; 的内容深度总结与分析。&lt;/p&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;十年后回看天涯神贴kkndme-的预言与社会底层的运行逻辑&#34;&gt;十年后回看“天涯神贴”：kkndme 的预言与社会底层的运行逻辑&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;出处：&lt;/strong&gt; 本文核心观点源自 GitHub 开源项目 &lt;a href=&#34;https://github.com/shengcaishizhan/kkndme_tianya&#34;&gt;shengcaishizhan/kkndme_tianya&lt;/a&gt;，该项目收录了 2010 年天涯论坛大神 &lt;strong&gt;kkndme&lt;/strong&gt; 关于中国楼市与社会阶层的传奇论战。&lt;/p&gt;
@@ -95,18 +95,18 @@
 &lt;p&gt;&lt;strong&gt;相关资源&lt;/strong&gt;：
 想阅读原贴整理版，请访问 GitHub 仓库：&lt;a href=&#34;https://github.com/shengcaishizhan/kkndme_tianya&#34;&gt;shengcaishizhan/kkndme_tianya&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-- https://liuqi.github.io/post/tianya-housing-price/ - 2022-2025</description>
+- https://liuqidev.github.io/post/tianya-housing-price/ - 2022-2025</description>
         </item>
     
     
     
         <item>
         <title>柏杨版《资治通鉴》再读</title>
-        <link>https://liuqi.github.io/post/zizhi-tongjian/</link>
+        <link>https://liuqidev.github.io/post/zizhi-tongjian/</link>
         <pubDate>Tue, 09 Sep 2025 16:29:13 +0800</pubDate>
         
-        <guid>https://liuqi.github.io/post/zizhi-tongjian/</guid>
-        <description>Liuqi&#39;s blog https://liuqi.github.io/post/zizhi-tongjian/ -&lt;p&gt;第一次读柏杨版《资治通鉴》是在几年前，当时只觉得它是一部巨大的历史编年，浩浩荡荡三百卷，像一条时光长河。而当我第二次重读时，才真正体会到柏杨的价值：他不仅翻译了司马光的古文，还把那些隐晦难懂的记载转化成现代汉语的节奏和气息，让历史走下神坛，回到人世。尤其在秦汉与三国的篇章，我几乎是欲罢不能。&lt;/p&gt;
+        <guid>https://liuqidev.github.io/post/zizhi-tongjian/</guid>
+        <description>Liuqi&#39;s blog https://liuqidev.github.io/post/zizhi-tongjian/ -&lt;p&gt;第一次读柏杨版《资治通鉴》是在几年前，当时只觉得它是一部巨大的历史编年，浩浩荡荡三百卷，像一条时光长河。而当我第二次重读时，才真正体会到柏杨的价值：他不仅翻译了司马光的古文，还把那些隐晦难懂的记载转化成现代汉语的节奏和气息，让历史走下神坛，回到人世。尤其在秦汉与三国的篇章，我几乎是欲罢不能。&lt;/p&gt;
 &lt;h1 id=&#34;一从史书到故事&#34;&gt;一、从史书到故事&lt;/h1&gt;
 &lt;p&gt;司马光原著《资治通鉴》是为皇帝写的“帝王镜子”，内容详实而冷峻。原文读来常常晦涩艰深，充满年号、谥号、官职、礼制，普通人往往望而却步。
 柏杨的处理方式堪称“二次创作”。他用白话，把复杂的历史拆开成一个个生动的故事，同时保留时间线的严谨。他还会在一些关键地方补充解释，甚至夹带个人的评论。这种笔触让原本古板的帝王将相，变成了有脾气、有选择、有欲望的人。&lt;/p&gt;
@@ -137,33 +137,33 @@
 &lt;h1 id=&#34;八结语&#34;&gt;八、结语&lt;/h1&gt;
 &lt;p&gt;柏杨版《资治通鉴》，是我读过最值得二刷甚至三刷的历史书之一。它既有历史的厚重，又有故事的精彩；既能满足好奇心，又能引人反思。秦汉与三国篇，读来让人心潮澎湃，但也常常陷入沉思。
 第二次合上书，我想到一句话：读历史，不是为了逃避现实，而是为了更清醒地看待现实。柏杨用他的笔，让这部千年的史书在今天依然鲜活。&lt;/p&gt;
-- https://liuqi.github.io/post/zizhi-tongjian/ - 2022-2025</description>
+- https://liuqidev.github.io/post/zizhi-tongjian/ - 2022-2025</description>
         </item>
     
     
     
         <item>
         <title>我喜爱的文章</title>
-        <link>https://liuqi.github.io/post/favorite-article/</link>
+        <link>https://liuqidev.github.io/post/favorite-article/</link>
         <pubDate>Wed, 18 Dec 2024 15:29:42 +0800</pubDate>
         
-        <guid>https://liuqi.github.io/post/favorite-article/</guid>
-        <description>Liuqi&#39;s blog https://liuqi.github.io/post/favorite-article/ -&lt;h1 id=&#34;list&#34;&gt;List&lt;/h1&gt;
+        <guid>https://liuqidev.github.io/post/favorite-article/</guid>
+        <description>Liuqi&#39;s blog https://liuqidev.github.io/post/favorite-article/ -&lt;h1 id=&#34;list&#34;&gt;List&lt;/h1&gt;
 &lt;h2 id=&#34;设定个人发展目标和计划httpsprogram-thinkblogspotcom2009013html&#34;&gt;&lt;a href=&#34;https://program-think.blogspot.com/2009/01/3.html&#34;&gt;设定个人发展目标和计划&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;此文很重要, 我曾看过几遍, 但直到2024-12-18前后才做了正确的实践.&lt;/p&gt;
 &lt;p&gt;我的做法是: 依次列出短中长期目标, 然后把短期目标写到&lt;code&gt;任务-重要&lt;/code&gt;节点, 并在每日模板里触发它.&lt;/p&gt;
-- https://liuqi.github.io/post/favorite-article/ - 2022-2025</description>
+- https://liuqidev.github.io/post/favorite-article/ - 2022-2025</description>
         </item>
     
     
     
         <item>
         <title>高冷冷的文章导读笔记</title>
-        <link>https://liuqi.github.io/post/gaolengleng/</link>
+        <link>https://liuqidev.github.io/post/gaolengleng/</link>
         <pubDate>Wed, 13 Nov 2024 07:05:18 +0800</pubDate>
         
-        <guid>https://liuqi.github.io/post/gaolengleng/</guid>
-        <description>Liuqi&#39;s blog https://liuqi.github.io/post/gaolengleng/ -&lt;p&gt;作者从北大中文系研究生毕业, 网名高冷冷 专注于分享学霸养成、考研、心理、高度自律、人际关系、个人成长相关的干货. 这篇&lt;a href=&#34;https://mp.weixin.qq.com/s/OBywkrLavNyrm3xS967wpA&#34;&gt;文章&lt;/a&gt;便是冷冷整理的索引. 下面便是我阅读时作的一些笔记, 对我帮助很大, 感谢冷冷姐.&lt;/p&gt;
+        <guid>https://liuqidev.github.io/post/gaolengleng/</guid>
+        <description>Liuqi&#39;s blog https://liuqidev.github.io/post/gaolengleng/ -&lt;p&gt;作者从北大中文系研究生毕业, 网名高冷冷 专注于分享学霸养成、考研、心理、高度自律、人际关系、个人成长相关的干货. 这篇&lt;a href=&#34;https://mp.weixin.qq.com/s/OBywkrLavNyrm3xS967wpA&#34;&gt;文章&lt;/a&gt;便是冷冷整理的索引. 下面便是我阅读时作的一些笔记, 对我帮助很大, 感谢冷冷姐.&lt;/p&gt;
 &lt;h2 id=&#34;学霸养成&#34;&gt;学霸养成&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;高效学习:
@@ -250,18 +250,18 @@
 &lt;li&gt;&lt;a href=&#34;http://mp.weixin.qq.com/s?__biz=MzI3MjA5MTgzMQ==&amp;amp;mid=2650875347&amp;amp;idx=1&amp;amp;sn=6b1f6a9be15489ad37ca0ae9cc3e800c&amp;amp;chksm=f0c25a0bc7b5d31d6b60dd2503e67e5dbf4469c5eab3e89bcdb64c2bf075604514f3e1cbec18&amp;amp;scene=21#wechat_redirect&#34;&gt;不停地下决心改变，不停地失败？这篇可以帮到你&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;至&lt;a href=&#34;http://mp.weixin.qq.com/s?__biz=MzI3MjA5MTgzMQ==&amp;amp;mid=2650873564&amp;amp;idx=1&amp;amp;sn=3e55bf997065da5a149c625c4286f4a0&amp;amp;chksm=f0c26104c7b5e812e23c3bfa1b0d2949e1f355726c117c4e60f7799bee2cd30ccad552f6bd47&amp;amp;scene=21#wechat_redirect&#34;&gt;每周4次，每次30分钟，跑步真的会让你变得更聪明已看&lt;/a&gt;往上.&lt;/li&gt;
 &lt;/ul&gt;
-- https://liuqi.github.io/post/gaolengleng/ - 2022-2025</description>
+- https://liuqidev.github.io/post/gaolengleng/ - 2022-2025</description>
         </item>
     
     
     
         <item>
         <title>【阅读01】认知觉醒</title>
-        <link>https://liuqi.github.io/post/read01/</link>
+        <link>https://liuqidev.github.io/post/read01/</link>
         <pubDate>Sat, 29 Jun 2024 21:27:31 +0000</pubDate>
         
-        <guid>https://liuqi.github.io/post/read01/</guid>
-        <description>Liuqi&#39;s blog https://liuqi.github.io/post/read01/ -&lt;p&gt;书籍全名是&lt;code&gt;认知觉醒: 开启自我改变的原动力&lt;/code&gt;, 作者是周岭, 在微信读书App即可免费阅读.&lt;/p&gt;
+        <guid>https://liuqidev.github.io/post/read01/</guid>
+        <description>Liuqi&#39;s blog https://liuqidev.github.io/post/read01/ -&lt;p&gt;书籍全名是&lt;code&gt;认知觉醒: 开启自我改变的原动力&lt;/code&gt;, 作者是周岭, 在微信读书App即可免费阅读.&lt;/p&gt;
 &lt;p&gt;本书是作者汲取众多心理学书籍的精华, 结合自己的实际编写而成, 试图教会我们如何成长.&lt;/p&gt;
 &lt;h2 id=&#34;大纲笔记&#34;&gt;大纲&amp;amp;笔记&lt;/h2&gt;
 &lt;ul&gt;
@@ -276,18 +276,18 @@
 &lt;li&gt;第二章 潜意识&lt;/li&gt;
 &lt;li&gt;结语 觉知&lt;/li&gt;
 &lt;/ul&gt;
-- https://liuqi.github.io/post/read01/ - 2022-2025</description>
+- https://liuqidev.github.io/post/read01/ - 2022-2025</description>
         </item>
     
     
     
         <item>
         <title>翻墙分享</title>
-        <link>https://liuqi.github.io/post/fanqiang/</link>
+        <link>https://liuqidev.github.io/post/fanqiang/</link>
         <pubDate>Sat, 15 Jul 2023 15:27:31 +0000</pubDate>
         
-        <guid>https://liuqi.github.io/post/fanqiang/</guid>
-        <description>Liuqi&#39;s blog https://liuqi.github.io/post/fanqiang/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+        <guid>https://liuqidev.github.io/post/fanqiang/</guid>
+        <description>Liuqi&#39;s blog https://liuqidev.github.io/post/fanqiang/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;工作中发现不少人还不会翻墙, 于是想分享一些自己的经验.&lt;/p&gt;
 &lt;p&gt;推荐使用开源客户端配合机场, 使用多年了, 一直都很稳定.&lt;/p&gt;
 &lt;p&gt;Tips: 机场指VPN服务商提供的服务.&lt;/p&gt;
@@ -300,18 +300,18 @@
 &lt;h2 id=&#34;结尾&#34;&gt;结尾&lt;/h2&gt;
 &lt;p&gt;建议配置路由规则以节省流量, 另一个原因是开启代理部分国内网站是无法访问的.&lt;/p&gt;
 &lt;p&gt;好了, 如有任何疑问, 欢迎评论或通过email联系我.&lt;/p&gt;
-- https://liuqi.github.io/post/fanqiang/ - 2022-2025</description>
+- https://liuqidev.github.io/post/fanqiang/ - 2022-2025</description>
         </item>
     
     
     
         <item>
         <title>Obsidian使用笔记</title>
-        <link>https://liuqi.github.io/post/obsidian/</link>
+        <link>https://liuqidev.github.io/post/obsidian/</link>
         <pubDate>Sat, 13 May 2023 15:27:31 +0000</pubDate>
         
-        <guid>https://liuqi.github.io/post/obsidian/</guid>
-        <description>Liuqi&#39;s blog https://liuqi.github.io/post/obsidian/ -&lt;p&gt;&lt;a href=&#34;https://publish.obsidian.md/help-zh&#34;&gt;Obsidian中文文档&lt;/a&gt;&lt;/p&gt;
+        <guid>https://liuqidev.github.io/post/obsidian/</guid>
+        <description>Liuqi&#39;s blog https://liuqidev.github.io/post/obsidian/ -&lt;p&gt;&lt;a href=&#34;https://publish.obsidian.md/help-zh&#34;&gt;Obsidian中文文档&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;record&#34;&gt;Record&lt;/h2&gt;
 &lt;p&gt;使用快捷键 Ctrl/Cmd-alt-左方向键回到之前的页面。
 可以构建一个非常复杂的知识管理系统。
@@ -352,18 +352,18 @@
 &lt;p&gt;搜特定文件夹的字符可用VSCode.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-- https://liuqi.github.io/post/obsidian/ - 2022-2025</description>
+- https://liuqidev.github.io/post/obsidian/ - 2022-2025</description>
         </item>
     
     
     
         <item>
         <title>关于</title>
-        <link>https://liuqi.github.io/about/</link>
+        <link>https://liuqidev.github.io/about/</link>
         <pubDate>Sat, 22 Apr 2023 08:30:50 +0800</pubDate>
         
-        <guid>https://liuqi.github.io/about/</guid>
-        <description>Liuqi&#39;s blog https://liuqi.github.io/about/ -&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
+        <guid>https://liuqidev.github.io/about/</guid>
+        <description>Liuqi&#39;s blog https://liuqidev.github.io/about/ -&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;待博客内容丰富, 且我取得一些成就之后再来丰富此页. /2025-9-17&lt;/li&gt;
 &lt;/ul&gt;
@@ -374,18 +374,18 @@
 &lt;li&gt;X: &lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; (&lt;a href=&#34;https://x.com/goliuqi&#34;&gt;https://x.com/goliuqi&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;项目&#34;&gt;项目&lt;/h2&gt;
-- https://liuqi.github.io/about/ - 2022-2025</description>
+- https://liuqidev.github.io/about/ - 2022-2025</description>
         </item>
     
     
     
         <item>
         <title>友链</title>
-        <link>https://liuqi.github.io/friend-links/</link>
+        <link>https://liuqidev.github.io/friend-links/</link>
         <pubDate>Sat, 22 Apr 2023 08:30:50 +0800</pubDate>
         
-        <guid>https://liuqi.github.io/friend-links/</guid>
-        <description>Liuqi&#39;s blog https://liuqi.github.io/friend-links/ -&lt;h2 id=&#34;important&#34;&gt;Important&lt;/h2&gt;
+        <guid>https://liuqidev.github.io/friend-links/</guid>
+        <description>Liuqi&#39;s blog https://liuqidev.github.io/friend-links/ -&lt;h2 id=&#34;important&#34;&gt;Important&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -451,7 +451,7 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-- https://liuqi.github.io/friend-links/ - 2022-2025</description>
+- https://liuqidev.github.io/friend-links/ - 2022-2025</description>
         </item>
     
     

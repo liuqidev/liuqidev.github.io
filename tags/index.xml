@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Liuqi&#39;s blog</title>
-    <link>https://liuqi.github.io/tags/</link>
+    <link>https://liuqidev.github.io/tags/</link>
     <description>Recent content in Tags on Liuqi&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>2022-2025</copyright>
-    <lastBuildDate>Sat, 29 Jun 2024 21:27:31 +0000</lastBuildDate><atom:link href="https://liuqi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jun 2024 21:27:31 +0000</lastBuildDate><atom:link href="https://liuqidev.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>阅读</title>
-      <link>https://liuqi.github.io/tags/%E9%98%85%E8%AF%BB/</link>
+      <link>https://liuqidev.github.io/tags/%E9%98%85%E8%AF%BB/</link>
       <pubDate>Sat, 29 Jun 2024 21:27:31 +0000</pubDate>
       
-      <guid>https://liuqi.github.io/tags/%E9%98%85%E8%AF%BB/</guid>
+      <guid>https://liuqidev.github.io/tags/%E9%98%85%E8%AF%BB/</guid>
       <description></description>
     </item>
     
     <item>
       <title>技术</title>
-      <link>https://liuqi.github.io/tags/%E6%8A%80%E6%9C%AF/</link>
+      <link>https://liuqidev.github.io/tags/%E6%8A%80%E6%9C%AF/</link>
       <pubDate>Sat, 13 May 2023 15:27:31 +0000</pubDate>
       
-      <guid>https://liuqi.github.io/tags/%E6%8A%80%E6%9C%AF/</guid>
+      <guid>https://liuqidev.github.io/tags/%E6%8A%80%E6%9C%AF/</guid>
       <description></description>
     </item>
     
