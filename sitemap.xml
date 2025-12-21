@@ -2,49 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lq2022.github.io/</loc>
+    <loc>https://liuqi.github.io/</loc>
+    <lastmod>2025-11-25T22:59:32+08:00</lastmod>
+  </url><url>
+    <loc>https://liuqi.github.io/post/</loc>
+    <lastmod>2025-11-25T22:59:32+08:00</lastmod>
+  </url><url>
+    <loc>https://liuqi.github.io/post/tianya-housing-price/</loc>
+    <lastmod>2025-11-25T22:59:32+08:00</lastmod>
+  </url><url>
+    <loc>https://liuqi.github.io/post/zizhi-tongjian/</loc>
     <lastmod>2025-09-09T16:29:13+08:00</lastmod>
   </url><url>
-    <loc>https://lq2022.github.io/post/</loc>
-    <lastmod>2025-09-09T16:29:13+08:00</lastmod>
-  </url><url>
-    <loc>https://lq2022.github.io/post/zizhi-tongjian/</loc>
-    <lastmod>2025-09-09T16:29:13+08:00</lastmod>
-  </url><url>
-    <loc>https://lq2022.github.io/post/favorite-article/</loc>
+    <loc>https://liuqi.github.io/post/favorite-article/</loc>
     <lastmod>2024-12-18T15:29:42+08:00</lastmod>
   </url><url>
-    <loc>https://lq2022.github.io/post/gaolengleng/</loc>
+    <loc>https://liuqi.github.io/post/gaolengleng/</loc>
     <lastmod>2024-11-13T07:05:18+08:00</lastmod>
   </url><url>
-    <loc>https://lq2022.github.io/post/read01/</loc>
+    <loc>https://liuqi.github.io/post/read01/</loc>
     <lastmod>2024-06-29T21:27:31+00:00</lastmod>
   </url><url>
-    <loc>https://lq2022.github.io/tags/</loc>
+    <loc>https://liuqi.github.io/tags/</loc>
     <lastmod>2024-06-29T21:27:31+00:00</lastmod>
   </url><url>
-    <loc>https://lq2022.github.io/tags/%E9%98%85%E8%AF%BB/</loc>
+    <loc>https://liuqi.github.io/tags/%E9%98%85%E8%AF%BB/</loc>
     <lastmod>2024-06-29T21:27:31+00:00</lastmod>
   </url><url>
-    <loc>https://lq2022.github.io/post/fanqiang/</loc>
+    <loc>https://liuqi.github.io/post/fanqiang/</loc>
     <lastmod>2023-07-15T15:27:31+00:00</lastmod>
   </url><url>
-    <loc>https://lq2022.github.io/categories/</loc>
+    <loc>https://liuqi.github.io/categories/</loc>
     <lastmod>2023-05-13T15:27:31+00:00</lastmod>
   </url><url>
-    <loc>https://lq2022.github.io/post/obsidian/</loc>
+    <loc>https://liuqi.github.io/post/obsidian/</loc>
     <lastmod>2023-05-13T15:27:31+00:00</lastmod>
   </url><url>
-    <loc>https://lq2022.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <loc>https://liuqi.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2023-05-13T15:27:31+00:00</lastmod>
   </url><url>
-    <loc>https://lq2022.github.io/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>https://liuqi.github.io/categories/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2023-05-13T15:27:31+00:00</lastmod>
   </url><url>
-    <loc>https://lq2022.github.io/about/</loc>
+    <loc>https://liuqi.github.io/about/</loc>
     <lastmod>2023-04-22T08:30:50+08:00</lastmod>
   </url><url>
-    <loc>https://lq2022.github.io/friend-links/</loc>
+    <loc>https://liuqi.github.io/friend-links/</loc>
     <lastmod>2023-04-22T08:30:50+08:00</lastmod>
   </url>
 </urlset>

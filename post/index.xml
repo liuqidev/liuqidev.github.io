@@ -2,18 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Liuqi&#39;s blog</title>
-    <link>https://lq2022.github.io/post/</link>
+    <link>https://liuqi.github.io/post/</link>
     <description>Recent content in Posts on Liuqi&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>2022-2025</copyright>
-    <lastBuildDate>Tue, 09 Sep 2025 16:29:13 +0800</lastBuildDate><atom:link href="https://lq2022.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Nov 2025 22:59:32 +0800</lastBuildDate><atom:link href="https://liuqi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>天涯房价神贴导读</title>
+      <link>https://liuqi.github.io/post/tianya-housing-price/</link>
+      <pubDate>Tue, 25 Nov 2025 22:59:32 +0800</pubDate>
+      
+      <guid>https://liuqi.github.io/post/tianya-housing-price/</guid>
+      <description>这是一个基于 GitHub 仓库 https://github.com/shengcaishizhan/kkndme_tianya 的内容深度总结与分析。
+十年后回看“天涯神贴”：kkndme 的预言与社会底层的运行逻辑 出处： 本文核心观点源自 GitHub 开源项目 shengcaishizhan/kkndme_tianya，该项目收录了 2010 年天涯论坛大神 kkndme 关于中国楼市与社会阶层的传奇论战。
+引言：互联网的“数字遗迹” 在中文互联网的历史上，有几座无法绕开的“丰碑”。其中，2010 年天涯论坛上一个 ID 为 kkndme 的用户留下的长贴，被无数人称为“神贴”。
+那个年份很特殊，当时的舆论主流是“房价太高、即将崩盘、泡沫破裂”。然而，kkndme 却不仅精准预测了随后十年的房价暴涨，更冷峻地剖析了背后的社会运作逻辑。如今，这个帖子早已在天涯关闭前成为绝响，但好在有 GitHub 仓库将其完整收录。
+重读这份“数字遗迹”，其价值不在于再去验证他“房价必涨”的结论（因为历史已经验证了），而在于他那套穿透表象看本质的思维模型。
+以下是从该资料中提炼出的核心观点与深度思考。
+一、 核心观点提炼 1. 房地产的本质：不是砖头，是金融与政治 kkndme 最具杀伤力的观点在于，他从未将房地产单纯视为“居住商品”。他指出，房地产是中国经济的蓄水池和税收工具。
+土地财政：地方政府需要巨额资金来进行城市化建设，而卖地是最高效的融资手段。只要这个依赖路径不改变，地价就很难真正下跌。 通胀的载体：在货币超发的背景下，房子成为了吸收多余货币的“海绵”。房价上涨，本质上是财富的转移；如果不买房，普通人的劳动果实会被通胀稀释。 2. “调控”的真意：稳涨而非暴跌 当时很多人看到政府出台限购、限贷政策，就欢呼“房价要降了”。kkndme 却一针见血地指出：调控的目的是为了防止楼市过快崩盘（防止大起大落），而不是为了让穷人买得起房。
+限购往往会人为制造稀缺感。 当政策限制供应时，实际上是在保护既得利益者的资产价值，避免市场剧烈波动引发系统性风险。他留下了著名的论断：“不要看他们说了什么（安抚舆论），要看他们做了什么（供地与货币政策）。” 3. 阶层固化与城市筛选机制 这是帖子中最残酷也最真实的部分。kkndme 认为，高房价本质上是一种社会筛选机制。
+一线城市的门票：北上广深的房子是稀缺资源。高房价就像一道围墙，将优质的教育、医疗、公共资源圈在墙内。买房，实际上是购买这家“城市公司”的股票和留在这个城市的“门票”。 刚需的悲剧：他反复提到“刚需”（他口中的“傻空”），指那些明明有需求且买得起，却因为听信媒体唱衰而迟迟不上车的人。他预言这批人将随着城市化进程被彻底甩入社会底层。 4. 房租与房价的剪刀差 在 2010 年，很多人用“租售比”不合理来论证泡沫。kkndme 的逻辑是：由于持有成本低（当时无房产税），富人囤房的成本极低。未来随着底层物价上涨，房租最终会补涨，或者低收入群体将被迫搬离核心区。
+5. 笔记汇总 zf一定要掏空百姓的钱包 50年产权到期肯定是不续的，到期直接拆了也不补偿。 人民币和外汇之间是国家制定汇率，不是靠市场定价，国内人民币与外汇也是不能自由兑换的。（当然，这也就是断定中国房市不会重蹈日本覆辙的基础） ZG之房子不属于市场经济 中国房地产的所谓“泡沫”会“破裂”吗？会，只要政府愿意。 精英人群的平均收入决定房价 现状 城中村 三四线 供应不足 2023-9-1 村骗乡，乡骗县，一骗骗到国务院。 体制内：公务员、垄断企业及医院高校科研院所等事业单位。 公务员越精减越多.</description>
+    </item>
+    
     <item>
       <title>柏杨版《资治通鉴》再读</title>
-      <link>https://lq2022.github.io/post/zizhi-tongjian/</link>
+      <link>https://liuqi.github.io/post/zizhi-tongjian/</link>
       <pubDate>Tue, 09 Sep 2025 16:29:13 +0800</pubDate>
       
-      <guid>https://lq2022.github.io/post/zizhi-tongjian/</guid>
+      <guid>https://liuqi.github.io/post/zizhi-tongjian/</guid>
       <description>第一次读柏杨版《资治通鉴》是在几年前，当时只觉得它是一部巨大的历史编年，浩浩荡荡三百卷，像一条时光长河。而当我第二次重读时，才真正体会到柏杨的价值：他不仅翻译了司马光的古文，还把那些隐晦难懂的记载转化成现代汉语的节奏和气息，让历史走下神坛，回到人世。尤其在秦汉与三国的篇章，我几乎是欲罢不能。
 一、从史书到故事 司马光原著《资治通鉴》是为皇帝写的“帝王镜子”，内容详实而冷峻。原文读来常常晦涩艰深，充满年号、谥号、官职、礼制，普通人往往望而却步。 柏杨的处理方式堪称“二次创作”。他用白话，把复杂的历史拆开成一个个生动的故事，同时保留时间线的严谨。他还会在一些关键地方补充解释，甚至夹带个人的评论。这种笔触让原本古板的帝王将相，变成了有脾气、有选择、有欲望的人。
 二、秦汉的铁血与现实 第二遍读，我尤其被秦汉部分打动。 秦的故事，是“速成帝国”的代价。始皇统一六国，扫荡文字、度量衡，开创中央集权。可帝国机器开得太快，人民喘不过气来，于是二世而亡。柏杨写到这里时，不是冷冰冰的史料堆砌，而是把百姓的痛苦写得触目惊心：赋役沉重、劳工血泪，像是一个人身处铁笼，越挣扎越窒息。 到了汉朝，历史的转折更像是一场长跑。刘邦并非光明磊落的英雄，反而狡猾、市井，但偏偏能用人。韩信、张良、萧何、樊哙，一个个闪亮的名字登场。柏杨特别善于抓住细节：韩信的“胯下之辱”、张良的“圯桥授书”，这些故事既是历史，也是寓言。汉初的宽政与“与民休息”，和秦的苛政形成鲜明对比，这种张力让读者自然思考“何为治国之道”。
@@ -27,20 +46,20 @@
     
     <item>
       <title>我喜爱的文章</title>
-      <link>https://lq2022.github.io/post/favorite-article/</link>
+      <link>https://liuqi.github.io/post/favorite-article/</link>
       <pubDate>Wed, 18 Dec 2024 15:29:42 +0800</pubDate>
       
-      <guid>https://lq2022.github.io/post/favorite-article/</guid>
+      <guid>https://liuqi.github.io/post/favorite-article/</guid>
       <description>List 设定个人发展目标和计划 此文很重要, 我曾看过几遍, 但直到2024-12-18前后才做了正确的实践.
 我的做法是: 依次列出短中长期目标, 然后把短期目标写到任务-重要节点, 并在每日模板里触发它.</description>
     </item>
     
     <item>
       <title>高冷冷的文章导读笔记</title>
-      <link>https://lq2022.github.io/post/gaolengleng/</link>
+      <link>https://liuqi.github.io/post/gaolengleng/</link>
       <pubDate>Wed, 13 Nov 2024 07:05:18 +0800</pubDate>
       
-      <guid>https://lq2022.github.io/post/gaolengleng/</guid>
+      <guid>https://liuqi.github.io/post/gaolengleng/</guid>
       <description>作者从北大中文系研究生毕业, 网名高冷冷 专注于分享学霸养成、考研、心理、高度自律、人际关系、个人成长相关的干货. 这篇文章便是冷冷整理的索引. 下面便是我阅读时作的一些笔记, 对我帮助很大, 感谢冷冷姐.
 学霸养成 高效学习: 学习/读书/记笔记/记忆/听课，都要时刻带着问题思维去做，问题让人专注；先有问题，才会有答案，这样做事的效率更高。 如何成为学习高手 心理 减少与自己对话 将自己的注意力，转向外界。 做决定时容易纠结？看这篇就对了 选择你最看重的那个因素去满足。 如果选择了在家复习，却担忧会孤独，可以每天固定半小时去人群中走走，有意地创造有效社交。 选择你最不能舍弃的那个因素去满足，同时通过有意识地努力，弥补你所舍弃的其它需求。 自律 高效利用时间 把所有要做的事情，都写出具体的条目，列在一个清单里. 我建议你按照7天为周期，来制定计划。 先把你眼下决定做的事情，认认真真投入一小时。
 在家 你早上起来后做的第一件事很重要, 要有所准备. 在开始后，你最好把需要完成的一切任务，在整块时间内，连续做完。中间可以午休，可以吃饭，可以每隔一小时休息10分钟，但不要做其他的事情，比如看两小时电影，打两小时游戏。 做6小时整就停下来，这是我要特别推荐给你的解决方案。 把一些轻松的、自己感兴趣的，并且其实对学习/工作/个人提升有帮助的，放在6小时以外。 大致写下来今天要做哪些，然后记下某个任务的开始时间和结束时间。 五 人际关系 如何变得会聊天 语气词很重要啦.
@@ -49,10 +68,10 @@
     
     <item>
       <title>【阅读01】认知觉醒</title>
-      <link>https://lq2022.github.io/post/read01/</link>
+      <link>https://liuqi.github.io/post/read01/</link>
       <pubDate>Sat, 29 Jun 2024 21:27:31 +0000</pubDate>
       
-      <guid>https://lq2022.github.io/post/read01/</guid>
+      <guid>https://liuqi.github.io/post/read01/</guid>
       <description>书籍全名是认知觉醒: 开启自我改变的原动力, 作者是周岭, 在微信读书App即可免费阅读.
 本书是作者汲取众多心理学书籍的精华, 结合自己的实际编写而成, 试图教会我们如何成长.
 大纲&amp;amp;笔记 第一章 大脑 第二章 潜意识 第三章 元认知 第二章 专注 第二章 学习 第二章 行动 第二章 情绪 第二章 早冥读写跑 第二章 潜意识 结语 觉知 </description>
@@ -60,10 +79,10 @@
     
     <item>
       <title>翻墙分享</title>
-      <link>https://lq2022.github.io/post/fanqiang/</link>
+      <link>https://liuqi.github.io/post/fanqiang/</link>
       <pubDate>Sat, 15 Jul 2023 15:27:31 +0000</pubDate>
       
-      <guid>https://lq2022.github.io/post/fanqiang/</guid>
+      <guid>https://liuqi.github.io/post/fanqiang/</guid>
       <description>前言 工作中发现不少人还不会翻墙, 于是想分享一些自己的经验.
 推荐使用开源客户端配合机场, 使用多年了, 一直都很稳定.
 Tips: 机场指VPN服务商提供的服务.
@@ -77,10 +96,10 @@ Tips: 机场指VPN服务商提供的服务.
     
     <item>
       <title>Obsidian使用笔记</title>
-      <link>https://lq2022.github.io/post/obsidian/</link>
+      <link>https://liuqi.github.io/post/obsidian/</link>
       <pubDate>Sat, 13 May 2023 15:27:31 +0000</pubDate>
       
-      <guid>https://lq2022.github.io/post/obsidian/</guid>
+      <guid>https://liuqi.github.io/post/obsidian/</guid>
       <description>Obsidian中文文档
 Record 使用快捷键 Ctrl/Cmd-alt-左方向键回到之前的页面。 可以构建一个非常复杂的知识管理系统。 发布并可设密码。 如果按住 Ctrl/Cmd 再按下 Enter，那么将会变为在新的面板打开该笔记。 模板插件能让你在当前笔记中快速插入预设的文本段。 复制、在 Obsidian 中粘贴图片 前后有空行包围的东西就是块。
 同步收费.
