@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>博客 on Liuqi&#39;s blog</title>
+    <link>https://liuqidev.github.io/tags/%E5%8D%9A%E5%AE%A2/</link>
+    <description>Recent content in 博客 on Liuqi&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>2022-2026</copyright>
+    <lastBuildDate>Sat, 22 Apr 2023 08:30:50 +0800</lastBuildDate><atom:link href="https://liuqidev.github.io/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我收藏的博客</title>
+      <link>https://liuqidev.github.io/favorited-blogs/</link>
+      <pubDate>Sat, 22 Apr 2023 08:30:50 +0800</pubDate>
+      
+      <guid>https://liuqidev.github.io/favorited-blogs/</guid>
+      <description>这里收录了我日常关注的一些个人博客，收录标准是：内容有深度、有持续性、值得反复阅读。不定期更新。
+强烈推荐 博客名 简介 编程随想 爱国奇人，知识量惊人。涵盖技术、思维方法、信息安全等多个领域，文章质量极高。强烈建议从入门系列开始读。 值得关注 博客名 简介 郭家宝 通过信息学竞赛考入清华，目前在 Google 日本工作。博客内容涉及技术、职业发展和个人成长，质量稳定。 孔令贤 曾在华为西安研究所工作，后选择移居新西兰。博客记录了他从国内大厂到海外生活的心路历程和技术分享。 月光博客 更新频繁，以转载和时评为主，深度一般，但作为了解互联网热点和时事的订阅源还不错。 yihong0618 一位用 gitlog 写博客的程序员，技术实践有趣，博客本身就是代码仓库的形式。 待观察 博客名 简介 韦阳 字节跳动 NLP 算法工程师，博客有技术 bug，更新频率较低（年更），但内容方向值得关注。 </description>
+    </item>
+    
+  </channel>
+</rss>
